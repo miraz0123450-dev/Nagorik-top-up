@@ -1,7 +1,7 @@
 // =======================================================
-// WEBSITE NAME (NICKNAME)
+// WEBSITE NAME (NAGORIK TOP UP)
 // =======================================================
-var website_name = "YASIN";
+var website_name = "NAGORIKTOPUP";
 
 // =======================================================
 // TELEGRAM CHANNEL LINK
