@@ -1,5 +1,5 @@
 // =======================================================
-// WEBSITE NAME (NICKNAME)
+// WEBSITE NAME (NAGORIKTOPUP)
 // =======================================================
 var website_name = "NAGORIK TOP UP";
 
